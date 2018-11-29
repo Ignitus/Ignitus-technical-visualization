@@ -17,15 +17,19 @@ List of the tools used in Ignitus
 - Balsamiq(windows)
 - Moqups
 
+### A/B testing
+- Unbounce
+
 ### Product Management
-- StoriesOnBoard - Story map, flow diagrams
-- RealtimeBoard - Lean Canvas, User persona, user story
+- StoriesOnBoard - Story map, Flow diagrams
+- RealtimeBoard - Lean Canvas, User persona, User story
 
 ### Illustrations
 - Undraw
 
 ### Video
 - Animaker
+- Adobe after effects
 
 ### Management Team
 - Asana
