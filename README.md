@@ -37,3 +37,49 @@ List of the tools used in Ignitus
 - Trello
 - Google drive
 - Dropbox
+
+
+### Client-Side
+Written in universal JavaScript
+
+- react
+- redux
+- travis-ci
+- heroku
+- prop-types
+- redux-thunk
+- docker-container
+- redux-sagas
+- flow
+- reselect
+- jest-tests
+- istanbul
+- ignitus-rest-api
+- heroku-pipeline
+- airbnb-eslint
+- react-router-v4
+- bootstrap4
+- enzyme-testing
+- service-worker-precache
+- sass
+- lazy-loading(React-lodable)
+- PWA (Progressive Web Application)
+
+
+
+### Bots
+- Netlify
+- dependabot
+- welcomebot
+- labelsbot
+
+### Server-Side
+- Node.js
+- JWT
+- Mocha
+- Mongoose
+- MongoDB
+- Docker
+- Redis
+- TRAVIS CI
+- CodeCov
