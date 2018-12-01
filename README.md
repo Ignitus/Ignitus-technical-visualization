@@ -11,6 +11,9 @@ List of the tools used in Ignitus
 - QuantX
 - Adobe Photoshop Illustrator
 - Avocode
+- Flinto
+- Principle 
+- 
 
 ### Wireframe/Mockups
 - Draw.io
@@ -38,7 +41,6 @@ List of the tools used in Ignitus
 - Google drive
 - Dropbox
 
-
 ### Client-Side
 Written in universal JavaScript
 
@@ -64,8 +66,6 @@ Written in universal JavaScript
 - sass
 - lazy-loading(React-lodable)
 - PWA (Progressive Web Application)
-
-
 
 ### Bots
 - Netlify
