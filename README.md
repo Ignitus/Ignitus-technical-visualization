@@ -13,7 +13,6 @@ List of the tools used in Ignitus
 - Avocode
 - Flinto
 - Principle 
-- 
 
 ### Wireframe/Mockups
 - Draw.io
