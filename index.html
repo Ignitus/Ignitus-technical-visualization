@@ -73,7 +73,7 @@
 		        });
 		        simulation.nodes(nodes).on('tick', ticked);
 		
-		        svg.style('background-color', '#eee');
+		        svg.style('background-color', '#ffffff');
 		        let node = svg.selectAll('.node')
 		            .data(nodes)
 		            .enter().append('g')
@@ -149,7 +149,7 @@
 		            .call(legendOrdinal);
 		
 		        let sizeScale = d3.scaleOrdinal()
-		            .domain(['less use', 'more use'])
+		            .domain(['Least Used', 'Most Used'])
 		            .range([5, 10]);
 		
 		        let legendSize = d3.legendSize()

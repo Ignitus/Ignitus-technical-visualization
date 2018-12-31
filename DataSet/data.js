@@ -99,7 +99,7 @@ const data = [
     desc: `UX Design tool`
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "Airbnb Javascript Style guide",
     value: 50,
     icon: "./Assets/Workflow/airbnb.png",
@@ -108,42 +108,42 @@ const data = [
 						Please visit the document site at: <a href='http://code.naustud.io' target='_blank'>code.naustud.io</a>`
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "BabelJS",
     value: 50,
     icon: "./Assets/Workflow/babel.png",
     desc: `The de-facto tool to work with ECMAScript 6 and ReactJS nowadays.`
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "ESLint",
     value: 50,
     icon: "./Assets/Workflow/eslint.svg",
     desc: `The tool to check and validate JavaScript code when we develop and prevent potential issues with code.`
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "Travis CI",
     value: 50,
     icon: "./Assets/Workflow/travis.png",
-    desc: `Travis helps to  test pull requests before it gets merged and allows us to deploy the apps as soon as the tests pass.`
+    desc: `Travis helps to  test pull requests before it gets merged and allows us to deploy the apps as soon as the Tests pass.`
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "Gitflow Workflow",
     value: 50,
     icon: "./Assets/Workflow/gitflow.png",
-    desc: `Our code version control tool is Git, and Gitflow is one of its workflow standard which ensure good collaboration and avoid conflict-resolving efforts. `
+    desc: `Our code version control tool is Git, and Gitflow is one of its Workflow standard which ensure good collaboration and avoid conflict-resolving efforts. `
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "GulpJS",
     value: 50,
     icon: "./Assets/Workflow/gulp.png",
     desc: `GulpJS is a task automation tools written for Node.js. It is among the most popular Front End and Node project automation tools nowadays`
   },
   {
-    cat: "workflow",
+    cat: "Workflow",
     name: "Docker Platform",
     value: 50,
     icon: "./Assets/Workflow/docker.svg",
@@ -151,56 +151,56 @@ const data = [
 				Docker is an open-source project that automates the deployment of applications inside software containers.`
   },
   {
-    cat: "bots",
+    cat: "Bots",
     name: "Netlify",
     value: 50,
     icon: "./Assets/Bots/netlify.png",
-    desc: `Github Bot makes automated workflow and the hard stuff simple.`
+    desc: `Github Bot makes automated Workflow and the hard stuff simple.`
   },
   {
-    cat: "bots",
+    cat: "Bots",
     name: "dependabot",
     value: 50,
     icon: "./Assets/Bots/dependabot.png",
     desc: `Github bot which automated dependency updates.It creates pull requests to keep your dependencies secure and up-to-date.`
   },
   {
-    cat: "bots",
+    cat: "Bots",
     name: "welcomebot",
     value: 50,
     icon: "./Assets/Bots/welcomebot.png",
     desc: `A Github App built with Probot that welcomes new users in any repository.`
   },
   {
-    cat: "tests",
+    cat: "Tests",
     name: "Mocha",
     value: 50,
     icon: "./Assets/Tests/mocha.svg",
-    desc: `Mocha is a feature-rich JavaScript test framework running on node and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.`
+    desc: `Mocha is a feature-rich JavaScript test framework running on node and the browser, making asynchronous testing simple and fun. Mocha Tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.`
   },
   {
-    cat: "tests",
+    cat: "Tests",
     name: "Jest",
     value: 50,
     icon: "./Assets/Tests/jest.svg",
     desc: `Jest is used by Facebook to test all JavaScript code including React applications. It also create code coverage report.`
   },
   {
-    cat: "management",
+    cat: "Management",
     name: "Slack",
     value: 50,
     icon: "./Assets/Management/slack.png",
     desc: `Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done. Join us`
   },
   {
-    cat: "management",
+    cat: "Management",
     name: "Github",
     value: 50,
     icon: "./Assets/Ignitus/Ignitus.png",
     desc: `GitHub Inc. is a web-based hosting service for version control using Git. At Ignitus, we have open sourced our code-base and uses Github to host the application.`
   },
   {
-    cat: "tooling",
+    cat: "Tooling",
     name: "Sublime Text 3",
     value: 50,
     icon: "./Assets/Tooling/sublimetext.png",
@@ -211,7 +211,7 @@ const data = [
 			`
   },
   {
-    cat: "tooling",
+    cat: "Tooling",
     name: "Visual Studio Code",
     value: 50,
     icon: "./Assets/Tooling/vscode.png",
@@ -222,7 +222,7 @@ const data = [
 			`
   },
   {
-    cat: "tooling",
+    cat: "Tooling",
     name: "Heroku",
     value: 50,
     icon: "./Assets/Tooling/heroku.png",
@@ -231,7 +231,7 @@ const data = [
 			`
   },
   {
-    cat: "tooling",
+    cat: "Tooling",
     name: "CodeCov",
     value: 50,
     icon: "./Assets/Tooling/codecov.png",
