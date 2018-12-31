@@ -82,3 +82,5 @@ Written in universal JavaScript
 - Redis
 - TRAVIS CI
 - CodeCov
+
+![](https://github.com/Ignitus/Tools/blob/master/Techstack.png)
