@@ -22,13 +22,6 @@ const data = [
   },
   {
     cat: "Framework",
-    name: "Bootstrap CSS",
-    value: 50,
-    icon: "./app-assets/Framework/bootstrap.svg",
-    desc: `Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML-and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.`
-  },
-  {
-    cat: "Framework",
     name: "ExpressJS",
     value: 50,
     icon: "./app-assets/Framework/expressjs.png",
@@ -42,26 +35,11 @@ const data = [
     desc: `React (sometimes written React.js or ReactJS) is an open-source JavaScript framework maintained by Facebook for building user interfaces. React processes only user interface in applications and can be used in combination with other JavaScript libraries or frameworks such as Redux, Flux, Backbone...`
   },
   {
-    cat: "Framework",
-    name: "jQuery",
-    value: 50,
-    icon: "./app-assets/Framework/jquery.png",
-    desc: ` Deprecated, because <a href='http://youmightnotneedjquery.com/' target='_blank'>youmightnotneedjquery.com</a>
-					`
-  },
-  {
     cat: "Language",
     name: "HTML5 & CSS3",
     value: 50,
     icon: "./app-assets/Language/html5-css3.png",
     desc: `The languages of the Web Front End and with them we can build world-class websites with any kind of visual effects or designs requested.`
-  },
-  {
-    cat: "Language",
-    name: "JavaScript",
-    value: 50,
-    icon: "./app-assets/Language/javascript.png",
-    desc: `JavaScript is the heart of modern Web front end development and essential element of any Single Page Applications.`
   },
   {
     cat: "Language",
@@ -74,38 +52,29 @@ const data = [
     cat: "Design",
     name: "Figma",
     value: 50,
-    icon: "./app-assets/Design/figma.png",
+    icon: "./app-assets/app-design-assets/figma.png",
     desc: `Figma is a free, online UI tool where you can create, collaborate, prototype and handoff all in the same place.`
   },
   {
     cat: "Design",
     name: "Adobe XD",
     value: 50,
-    icon: "./app-assets/Design/AdobeXD.png",
+    icon: "./app-assets/app-design-assets/AdobeXD.png",
     desc: `XD supports vector design and website wireframing, and creating simple interactive click-through prototypes.`
   },
   {
     cat: "Design",
     name: "Balsamiq",
     value: 50,
-    icon: "./app-assets/Design/balsamiq.png",
+    icon: "./app-assets/app-design-assets/balsamiq.png",
     desc: `Balsamiq Wireframes (formerly called Balsamiq Mockups) is a small graphical tool to sketch out user interfaces, for websites and web / desktop / mobile applications.`
   },
   {
     cat: "Design",
     name: "Sketch",
     value: 50,
-    icon: "./app-assets/Design/sketch.png",
+    icon: "./app-assets/app-design-assets/sketch.png",
     desc: `UX Design tool`
-  },
-  {
-    cat: "Workflow",
-    name: "Airbnb Javascript Style guide",
-    value: 50,
-    icon: "./app-assets/Workflow/airbnb.png",
-    desc: `
-						A set of guidelines, presets, configs and stadard documentation for Nau developers.
-						Please visit the document site at: <a href='http://code.naustud.io' target='_blank'>code.naustud.io</a>`
   },
   {
     cat: "Workflow",
@@ -120,13 +89,6 @@ const data = [
     value: 50,
     icon: "./app-assets/Workflow/travis.png",
     desc: `Travis helps to  test pull requests before it gets merged and allows us to deploy the apps as soon as the Tests pass.`
-  },
-  {
-    cat: "Workflow",
-    name: "Gitflow Workflow",
-    value: 50,
-    icon: "./app-assets/Workflow/gitflow.png",
-    desc: `Our code version control tool is Git, and Gitflow is one of its Workflow standard which ensure good collaboration and avoid conflict-resolving efforts. `
   },
   {
     cat: "Workflow",
@@ -184,17 +146,6 @@ const data = [
     value: 50,
     icon: "./app-assets/Management/slack.png",
     desc: `Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done. Join us`
-  },
-  {
-    cat: "Tooling",
-    name: "Sublime Text 3",
-    value: 50,
-    icon: "./app-assets/Tooling/sublimetext.png",
-    desc: `
-				Sublime Text 3 is a powerful and cross-platform source code editor. It is well-known for
-				introducing the concept of multi-cursor and lots of text editing command. Besides, its
-				plugin ecosystem is very rich which allows enhancing productivity to the fullest.
-			`
   },
   {
     cat: "Tooling",
