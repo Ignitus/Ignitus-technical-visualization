@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Ignitus/Ignitus-technical-visualization/blob/master/app-assets/techstack.gif" width="1400">
+    <img src="https://github.com/Ignitus/Ignitus-technical-visualization/blob/master/app-assets/techstack.gif">
 </div>
 
 
