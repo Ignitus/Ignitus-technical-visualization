@@ -1,13 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/b0y65se.gif" width="150">
-    <h1>Ignitus</h1>
-    <p>
-        <b>A Non-Profit Organization for the welfare of student community.</b>
-    </p>
-    <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" width="250">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150">
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" width="250">
-
+    <img src="https://github.com/Ignitus/Ignitus-technical-visualization/blob/master/app-assets/techstack.gif" width="1400">
 </div>
 
 
