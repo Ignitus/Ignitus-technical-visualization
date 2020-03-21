@@ -12,7 +12,7 @@
 
 <div align="center">
  <a href="https://github.com/Ignitus/Tools"><img src="https://imgur.com/1pa8uwS.png" width="500"></a>
-  https://ignitus-tech-stack.herokuapp.com/
+    <p> https://ignitus-tech-stack.herokuapp.com/ </p>
  </div>
 
 
