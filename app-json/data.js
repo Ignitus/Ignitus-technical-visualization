@@ -81,7 +81,7 @@ const data = [
     name: "Sketch",
     value: 50,
     icon: "./app-assets/app-design-assets/sketch.png",
-    desc: `UX Design tool`
+    desc: `Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.`
   },
   {
     cat: "testing",
