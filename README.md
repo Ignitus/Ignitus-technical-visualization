@@ -1,93 +1,102 @@
+<div align="center">
+    <img src="https://imgur.com/b0y65se.gif" width="150">
+    <h1>Ignitus</h1>
+    <p>
+        <b>A Non-Profit Organization for the welfare of student community.</b>
+    </p>
+    
+    <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" width="250">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150">
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" width="250">
+</div>
 
-<a href="https://github.com/Ignitus/Tools"><img src="https://imgur.com/1pa8uwS.png" width="500"></a>
 
-Comprises of tools we use at @Ignitus for Live Version Visit - https://ignitus-tech-stack.herokuapp.com/
+## About Ignitus
+https://github.com/Ignitus/Ignitus-client/wiki/About 
 
-![alt tag](https://github.com/Ignitus/Tools/blob/master/Assets/ignitus-tech.gif)
+## Built with
 
-# Tools
-List of the tools used in Ignitus
+#### Frameworks.
 
-### Prototyping 
-- Framer
-- Sketch
-- Invision
-- Figma
-- Adobe XD
-- Lunacy(alternate for the sketch in windows)
-- QuantX
-- Adobe Photoshop Illustrator
-- Avocode
-- Flinto
-- Principle 
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces. 
+- [Node](https://nodejs.org/en/)- Executes JavaScript code outside of a browser.
+- [TypeScript](https://www.typescriptlang.org/) - Superset of JavaScript that compiles to plain JavaScript.
+- [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps.
+- [Redux-Sagas](https://redux-saga.js.org/) - An alternative side effect model for Redux apps.
+- [Reselect](https://github.com/reduxjs/reselect) - Selector library for Redux.
+- [Emotion](https://emotion.sh/docs/styled) - Emotion is a library designed for writing css styles with JavaScript. 🎨
+- [Express](https://expressjs.com/) - Node.js web application framework
 
-### Wireframe/Mockups
-- Draw.io
-- Balsamiq(windows)
-- Moqups
+#### CI/CD
 
-### A/B testing
-- Unbounce
+- [Travis](https://travis-ci.org/) - Test and Deploy with Confidence.
+- [Hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
+- [CodeCov](https://codecov.io/) - Improves your code review workflow and quality.
+- [Netlify](https://www.netlify.com/) - Netlify builds, deploys 🚀 and hosts your front-end.
+- [Husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [Heroku](https://www.heroku.com/) - Heroku is a cloud platform as a service supporting several programming languages.
+- [Docker](https://www.docker.com/) - Empowering App Development for Developers. 🐳
+- [Istanbul](https://istanbul.js.org/) - JavaScript test coverage tool.
 
-### Product Management
-- StoriesOnBoard - Story map, Flow diagrams
-- RealtimeBoard - Lean Canvas, User persona, User story
+<a href="https://www.netlify.com">
+  <img src="https://www.netlify.com/img/global/badges/netlify-light.svg"/>
+</a>
 
-### Illustrations
-- Undraw
 
-### Video
-- Animaker
-- Adobe after effects
+### Testing
+- [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework. 🔨
+- [Enzyme](https://enzymejs.github.io/enzyme/) - JavaScript Testing utilities for React.
 
-### Management Team
-- Asana
-- Slack
-- Trello
-- Google drive
-- Dropbox
+### Database
+- [MongoDB](https://www.mongodb.com/) - The database for modern applications.
+- [Redis](https://redislabs.com/) - Redis is an open source (BSD licensed), in-memory data structure store.
 
-### Client-Side
-Written in universal JavaScript
+### Dependencies
+- [Sentry](https://sentry.io/welcome/) -  Application Monitoring and Error Tracking Software.
+- [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
+- [React Loadable](https://github.com/jamiebuilds/react-loadable) - A HOC for loading components with promises.
+- [IDB](https://www.npmjs.com/package/idb) - IndexedDB with usability.
+- [Font Awesome](https://fontawesome.com/) - Font Awesome is a font and icon toolkit based on CSS and LESS.
+- [Lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity.
+- [React Router](https://www.npmjs.com/package/react-router) - Router for react applications.
 
-- react
-- redux
-- travis-ci
-- heroku
-- prop-types
-- redux-thunk
-- docker-container
-- redux-sagas
-- flow
-- reselect
-- jest-tests
-- istanbul
-- ignitus-rest-api
-- heroku-pipeline
-- airbnb-eslint
-- react-router-v4
-- bootstrap4
-- enzyme-testing
-- service-worker-precache
-- sass
-- lazy-loading(React-lodable)
-- PWA (Progressive Web Application)
+### Additional tools
+- [Prettier](https://prettier.io) - Prettier is an opinionated code formatter.
+- [ESlint](https://enzymejs.github.io/enzyme/) - Find and fix problems in your JavaScript code.
 
-### Bots
-- Netlify
-- dependabot
-- welcomebot
-- labelsbot
 
-### Server-Side
-- Node.js
-- JWT
-- Mocha
-- Mongoose
-- MongoDB
-- Docker
-- Redis
-- TRAVIS CI
-- CodeCov
+### Deprecated Stack 🧨 (We are migrating from this stack => TS, Emotion)
+- [SAAS](https://sass-lang.com/) - Syntactically Awesome Style Sheets.
+- [BootStrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - JS UI Framework.
+- [Material UI](https://material-ui.com/) - React components for faster and easier web development.
+- [Prop-Types](https://www.npmjs.com/package/prop-types) - Runtime type checking for React props and similar objects.
 
-![](https://github.com/Ignitus/Tools/blob/master/Techstack.png)
+
+### Upcoming Modern Stack
+We also plan to introduce some new technologies in the future such as.
+- [GraphQl](https://graphql.org/) - A query language for your API.
+- [Relay](https://relay.dev/) - The production-ready GraphQL client for React.
+- Microservices in [Golang](https://golang.org/) - Go is a statically typed, compiled programming language 
+
+## Contributing
+
+- Please check the [Contribution Guidelines](https://github.com/Ignitus/Ignitus-Client-Side-Development/blob/master/.github/CONTRIBUTION/CONTRIBUTION.md).
+- Please check the [Coding Conventions](https://github.com/Ignitus/Ignitus-client/wiki/CodeGuidelines-And-Conventions).
+
+
+<p>
+  <sub>Built with ❤︎ by
+    <a href="https://github.com/liyasthomas/postwoman/graphs/contributors">contributors.</a>
+  </sub>
+</p>
+
+<div align="center">
+  <br>
+  <a href="https://postwoman.io"><img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" alt="Postwoman.io" width="200"></a>
+  <br>
+  <h3>Happy Coding ☘️.</h3>
+</div>
+
+<div align="center">
+ <a href="https://github.com/Ignitus/Tools"><img src="https://imgur.com/1pa8uwS.png" width="500"></a>
+ </div>
