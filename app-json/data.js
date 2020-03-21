@@ -21,17 +21,17 @@ const data = [
     desc: `Redis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperloglogs, bitmaps, streams and spatial indexes.`
   },
   {
-    cat: "Framework",
+    cat: "Server",
     name: "ExpressJS",
     value: 50,
-    icon: "./app-assets/Framework/expressjs.png",
+    icon: "./app-assets/app-backend-assets/expressjs.png",
     desc: `Express.js, or simply Express, is a JavaScript framework designed for building web applications and APIs. It is the de facto server framework for Node.js.`
   },
   {
-    cat: "Framework",
+    cat: "Client",
     name: "ReactJS",
     value: 50,
-    icon: "./app-assets/Framework/react.png",
+    icon: "./app-assets/app-client-assets/react.png",
     desc: `React (sometimes written React.js or ReactJS) is an open-source JavaScript framework maintained by Facebook for building user interfaces. React processes only user interface in applications and can be used in combination with other JavaScript libraries or frameworks such as Redux, Flux, Backbone...`
   },
   {
@@ -109,21 +109,21 @@ const data = [
     cat: "Bots",
     name: "Netlify",
     value: 50,
-    icon: "./app-assets/Bots/netlify.png",
+    icon: "./app-assets/app-bots-assets/netlify.png",
     desc: `Github Bot makes automated Workflow and the hard stuff simple.`
   },
   {
     cat: "Bots",
     name: "dependabot",
     value: 50,
-    icon: "./app-assets/Bots/dependabot.png",
+    icon: "./app-assets/app-bots-assets/dependabot.png",
     desc: `Github bot which automated dependency updates.It creates pull requests to keep your dependencies secure and up-to-date.`
   },
   {
     cat: "Bots",
     name: "welcomebot",
     value: 50,
-    icon: "./app-assets/Bots/welcomebot.png",
+    icon: "./app-assets/app-bots-assets/welcomebot.png",
     desc: `A Github App built with Probot that welcomes new users in any repository.`
   },
   {
@@ -139,13 +139,6 @@ const data = [
     value: 50,
     icon: "./app-assets/Tests/jest.svg",
     desc: `Jest is used by Facebook to test all JavaScript code including React applications. It also create code coverage report.`
-  },
-  {
-    cat: "Management",
-    name: "Slack",
-    value: 50,
-    icon: "./app-assets/Management/slack.png",
-    desc: `Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done. Join us`
   },
   {
     cat: "Tooling",
