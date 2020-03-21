@@ -35,17 +35,10 @@ const data = [
     desc: `React (sometimes written React.js or ReactJS) is an open-source JavaScript framework maintained by Facebook for building user interfaces. React processes only user interface in applications and can be used in combination with other JavaScript libraries or frameworks such as Redux, Flux, Backbone...`
   },
   {
-    cat: "Language",
-    name: "HTML5 & CSS3",
-    value: 50,
-    icon: "./app-assets/Language/html5-css3.png",
-    desc: `The languages of the Web Front End and with them we can build world-class websites with any kind of visual effects or designs requested.`
-  },
-  {
-    cat: "Language",
+    cat: "Styles",
     name: "SCSS (Sassy CSS/SASS)",
     value: 50,
-    icon: "./app-assets/Language/sass.png",
+    icon: "./app-assets/app-css-assets/sass.png",
     desc: `This is our main CSS preprocessor language helping us lay structured foundation to CSS as well as assisting on writing more convenient BEM anotations.`
   },
   {
@@ -77,39 +70,25 @@ const data = [
     desc: `UX Design tool`
   },
   {
-    cat: "Workflow",
-    name: "ESLint",
-    value: 50,
-    icon: "./app-assets/Workflow/eslint.svg",
-    desc: `The tool to check and validate JavaScript code when we develop and prevent potential issues with code.`
-  },
-  {
-    cat: "Workflow",
+    cat: "testing",
     name: "Travis CI",
     value: 50,
-    icon: "./app-assets/Workflow/travis.png",
+    icon: "./app-assets/app-testing-frameworks/travis.png",
     desc: `Travis helps to  test pull requests before it gets merged and allows us to deploy the apps as soon as the Tests pass.`
   },
   {
-    cat: "Workflow",
-    name: "GulpJS",
-    value: 50,
-    icon: "./app-assets/Workflow/gulp.png",
-    desc: `GulpJS is a task automation tools written for Node.js. It is among the most popular Front End and Node project automation tools nowadays`
-  },
-  {
-    cat: "Workflow",
+    cat: "Deployment",
     name: "Docker Platform",
     value: 50,
-    icon: "./app-assets/Workflow/docker.svg",
+    icon: "./app-assets/app-deployment-assets/docker.svg",
     desc: `
 				Docker is an open-source project that automates the deployment of applications inside software containers.`
   },
   {
-    cat: "Bots",
+    cat: "Deployment",
     name: "Netlify",
     value: 50,
-    icon: "./app-assets/app-bots-assets/netlify.png",
+    icon: "./app-assets/app-deployment-assets/netlify.png",
     desc: `Github Bot makes automated Workflow and the hard stuff simple.`
   },
   {
@@ -127,33 +106,33 @@ const data = [
     desc: `A Github App built with Probot that welcomes new users in any repository.`
   },
   {
-    cat: "Tests",
+    cat: "Testing",
     name: "Mocha",
     value: 50,
-    icon: "./app-assets/Tests/mocha.svg",
+    icon: "./app-assets/app-testing-frameworks/mocha.svg",
     desc: `Mocha is a feature-rich JavaScript test framework running on node and the browser, making asynchronous testing simple and fun. Mocha Tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.`
   },
   {
-    cat: "Tests",
+    cat: "Testing",
     name: "Jest",
     value: 50,
-    icon: "./app-assets/Tests/jest.svg",
+    icon: "./app-assets/app-testing-frameworks/jest.svg",
     desc: `Jest is used by Facebook to test all JavaScript code including React applications. It also create code coverage report.`
   },
   {
-    cat: "Tooling",
+    cat: "Deployment",
     name: "Heroku",
     value: 50,
-    icon: "./app-assets/Tooling/heroku.png",
+    icon: "./app-assets/app-deployment-assets/heroku.png",
     desc: `
 				Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 			`
   },
   {
-    cat: "Tooling",
+    cat: "Bots",
     name: "CodeCov",
     value: 50,
-    icon: "./app-assets/Tooling/codecov.png",
+    icon: "./app-assets/app-bots-assets/codecov.png",
     desc: `web performance is our top priority when development web sites and applications.
 				We're practicing code optimization and Front End delivery optimization from day 1.
 				To measure the results, we use several tools to audit and benchmark our applications.`
