@@ -3,13 +3,6 @@
 </div>
 
 
-
-<p>
-  <sub>Built with ❤︎ by
-    <a href="https://github.com/liyasthomas/postwoman/graphs/contributors">contributors.</a>
-  </sub>
-</p>
-
 <div align="center">
   <br>
   <a href="https://postwoman.io"><img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" alt="Postwoman.io" width="200"></a>
