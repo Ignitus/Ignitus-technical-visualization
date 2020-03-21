@@ -35,6 +35,13 @@ const data = [
     desc: `React (sometimes written React.js or ReactJS) is an open-source JavaScript framework maintained by Facebook for building user interfaces. React processes only user interface in applications and can be used in combination with other JavaScript libraries or frameworks such as Redux, Flux, Backbone...`
   },
   {
+    cat: "Client",
+    name: "Typescript",
+    value: 50,
+    icon: "./app-assets/app-client-assets/ts.png",
+    desc: `TypeScript brings you optional static type-checking along with the latest ECMAScript features.`
+  },
+  {
     cat: "Styles",
     name: "SCSS (Sassy CSS/SASS)",
     value: 50,
