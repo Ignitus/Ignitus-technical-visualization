@@ -49,6 +49,13 @@ const data = [
     desc: `This is our main CSS preprocessor language helping us lay structured foundation to CSS as well as assisting on writing more convenient BEM anotations.`
   },
   {
+    cat: "Styles",
+    name: "Emotion",
+    value: 50,
+    icon: "./app-assets/app-css-assets/emotion.png",
+    desc: `Emotion is a library designed for writing css styles with JavaScript. `
+  },
+  {
     cat: "Design",
     name: "Figma",
     value: 50,
