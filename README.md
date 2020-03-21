@@ -4,11 +4,12 @@
     <p>
         <b>A Non-Profit Organization for the welfare of student community.</b>
     </p>
-    
     <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" width="250">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150">
     <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" width="250">
+
 </div>
+
 
 
 ## About Ignitus
