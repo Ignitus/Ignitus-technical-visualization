@@ -1,23 +1,23 @@
 const data = [
   {
-    cat: "Backend",
+    cat: "Server",
     name: "MongoDB",
     value: 50,
-    icon: "./app-assets/Backend/mongodb.png",
+    icon: "./app-assets/app-backend-assets/mongodb.png",
     desc: `The de-facto Database solution for JavaScript and Node.js applications. It is a light weight,high performance NoSQL database and can be used for small and large websites.`
   },
   {
-    cat: "Backend",
+    cat: "Server",
     name: "NodeJS",
     value: 50,
-    icon: "./app-assets/Backend/nodejs.svg",
+    icon: "./app-assets/app-backend-assets/nodejs.svg",
     desc: `Node.js is a cross-platform JavaScript runtime environment.Node.js allows creation of high performance and high concurrency websites with smaller footprint compared to other server-side solution.`
   },
   {
-    cat: "Backend",
+    cat: "Server",
     name: "Redis",
     value: 50,
-    icon: "./app-assets/Backend/redis.png",
+    icon: "./app-assets/app-backend-assets/redis.png",
     desc: `Redis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperloglogs, bitmaps, streams and spatial indexes.`
   },
   {
@@ -109,13 +109,6 @@ const data = [
   },
   {
     cat: "Workflow",
-    name: "BabelJS",
-    value: 50,
-    icon: "./app-assets/Workflow/babel.png",
-    desc: `The de-facto tool to work with ECMAScript 6 and ReactJS nowadays.`
-  },
-  {
-    cat: "Workflow",
     name: "ESLint",
     value: 50,
     icon: "./app-assets/Workflow/eslint.svg",
@@ -193,13 +186,6 @@ const data = [
     desc: `Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done. Join us`
   },
   {
-    cat: "Management",
-    name: "Github",
-    value: 50,
-    icon: "./app-assets/Ignitus/Ignitus.png",
-    desc: `GitHub Inc. is a web-based hosting service for version control using Git. At Ignitus, we have open sourced our code-base and uses Github to host the application.`
-  },
-  {
     cat: "Tooling",
     name: "Sublime Text 3",
     value: 50,
@@ -208,17 +194,6 @@ const data = [
 				Sublime Text 3 is a powerful and cross-platform source code editor. It is well-known for
 				introducing the concept of multi-cursor and lots of text editing command. Besides, its
 				plugin ecosystem is very rich which allows enhancing productivity to the fullest.
-			`
-  },
-  {
-    cat: "Tooling",
-    name: "Visual Studio Code",
-    value: 50,
-    icon: "./app-assets/Tooling/vscode.png",
-    desc: `
-				Visual Studio Code is a cross-platform source code editor developed by Microsoft.
-				It includes support for debugging, embedded Git control, syntax highlighting,
-				intelligent code completion, snippets, and code refactoring. Its extensions eco system is growing quickly and it is becoming the best Front End editors out there.
 			`
   },
   {
