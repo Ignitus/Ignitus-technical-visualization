@@ -4,35 +4,35 @@ const data = [
     name: "MongoDB",
     value: 50,
     icon: "./app-assets/app-backend-assets/mongodb.png",
-    desc: `The de-facto Database solution for JavaScript and Node.js applications. It is a light weight,high performance NoSQL database and can be used for small and large websites.`
+    desc: `The de-facto Database solution for JavaScript and Node.js applications.`
   },
   {
     cat: "Server",
     name: "NodeJS",
     value: 50,
     icon: "./app-assets/app-backend-assets/nodejs.svg",
-    desc: `Node.js is a cross-platform JavaScript runtime environment.Node.js allows creation of high performance and high concurrency websites with smaller footprint compared to other server-side solution.`
+    desc: `Node.js is a cross-platform JavaScript runtime environment.`
   },
   {
     cat: "Server",
     name: "Redis",
     value: 50,
     icon: "./app-assets/app-backend-assets/redis.png",
-    desc: `Redis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperloglogs, bitmaps, streams and spatial indexes.`
+    desc: `Redis is an open source (BSD licensed), in-memory data structure store.`
   },
   {
     cat: "Server",
     name: "ExpressJS",
     value: 50,
     icon: "./app-assets/app-backend-assets/expressjs.png",
-    desc: `Express.js, or simply Express, is a JavaScript framework designed for building web applications and APIs. It is the de facto server framework for Node.js.`
+    desc: `Express.js, or simply Express, is a JavaScript framework designed for building web applications and APIs.`
   },
   {
     cat: "Client",
     name: "ReactJS",
     value: 50,
     icon: "./app-assets/app-client-assets/react.png",
-    desc: `React (sometimes written React.js or ReactJS) is an open-source JavaScript framework maintained by Facebook for building user interfaces. React processes only user interface in applications and can be used in combination with other JavaScript libraries or frameworks such as Redux, Flux, Backbone...`
+    desc: `React (sometimes written React.js or ReactJS) is an open-source JavaScript framework maintained by Facebook for building user interfaces.`
   },
   {
     cat: "Client",
@@ -46,7 +46,7 @@ const data = [
     name: "SCSS (Sassy CSS/SASS)",
     value: 50,
     icon: "./app-assets/app-css-assets/sass.png",
-    desc: `This is our main CSS preprocessor language helping us lay structured foundation to CSS as well as assisting on writing more convenient BEM anotations.`
+    desc: `Sass is a CSS pre-processor with syntax advancements.`
   },
   {
     cat: "Styles",
@@ -74,7 +74,7 @@ const data = [
     name: "Balsamiq",
     value: 50,
     icon: "./app-assets/app-design-assets/balsamiq.png",
-    desc: `Balsamiq Wireframes (formerly called Balsamiq Mockups) is a small graphical tool to sketch out user interfaces, for websites and web / desktop / mobile applications.`
+    desc: `Balsamiq Wireframes (formerly called Balsamiq Mockups) is a small graphical tool to sketch out user interfaces.`
   },
   {
     cat: "Design",
@@ -124,14 +124,14 @@ const data = [
     name: "Mocha",
     value: 50,
     icon: "./app-assets/app-testing-frameworks/mocha.svg",
-    desc: `Mocha is a feature-rich JavaScript test framework running on node and the browser, making asynchronous testing simple and fun. Mocha Tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.`
+    desc: `Mocha is a feature-rich JavaScript test framework running on node and the browser, making asynchronous testing simple and fun.`
   },
   {
     cat: "Testing",
     name: "Jest",
     value: 50,
     icon: "./app-assets/app-testing-frameworks/jest.svg",
-    desc: `Jest is used by Facebook to test all JavaScript code including React applications. It also create code coverage report.`
+    desc: `Jest is used by Facebook to test all JavaScript code including React applications.`
   },
   {
     cat: "Deployment",
@@ -147,8 +147,6 @@ const data = [
     name: "CodeCov",
     value: 50,
     icon: "./app-assets/app-bots-assets/codecov.png",
-    desc: `web performance is our top priority when development web sites and applications.
-				We're practicing code optimization and Front End delivery optimization from day 1.
-				To measure the results, we use several tools to audit and benchmark our applications.`
+    desc: `Codecov is a tool that is used to measure the test coverage of your codebase.`
   }
 ];
