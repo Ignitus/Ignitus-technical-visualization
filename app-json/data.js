@@ -4,7 +4,7 @@ const data = [
     name: "MongoDB",
     value: 50,
     icon: "./app-assets/app-backend-assets/mongodb.png",
-    desc: `The de-facto Database solution for JavaScript and Node.js applications.`
+    desc: `The de-factor Database solution for JavaScript and Node.js applications.`
   },
   {
     cat: "Server",
